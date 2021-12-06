@@ -8,3 +8,5 @@ Today I Learned
 2-2. <a href="https://webdevtechblog.com/entity-vo-dto-666bc72614bb"> DTO, VO, ENTITY 차이(추가2)</a> 2021. 12.6
 
 3. <a href="https://daesuni.github.io/jstl/"> JSTL 학습</a> 2021. 12.6
+
+4. <a href="https://starkying.tistory.com/entry/Servlet-JSP%EC%9D%98-4%EA%B0%80%EC%A7%80-Scope"/> Servlet, JSP의 4가지 Scope</a> 2021.12.6
