@@ -12,4 +12,4 @@ Today I Learned
 
 4. <a href="https://starkying.tistory.com/entry/Servlet-JSP%EC%9D%98-4%EA%B0%80%EC%A7%80-Scope" target='_blank'> Servlet, JSP의 4가지 Scope</a> 2021.12.6
 
-5.<a href="https://yceffort.kr/2020/10/6-different-ways-to-declare-javascript-function"> 자바스크립트 함수 선언 학습</a> 2021. 12.8
+5. <a href="https://yceffort.kr/2020/10/6-different-ways-to-declare-javascript-function"> 자바스크립트 함수 선언 학습</a> 2021. 12.8
