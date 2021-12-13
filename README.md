@@ -19,5 +19,5 @@ Today I Learned
 7. <a href="https://pearlluck.tistory.com/46"> SQL JOIN 학습</a> 2021. 12.12
 
 8. CSS 학습
-8-1. <a href="https://studiomeal.com/archives/197"> CSS FLEX</a> 2021. 12.13
+8-1. <a href="https://studiomeal.com/archives/197"> CSS FLEX</a> 2021. 12.13<br>
 8-2. <a href="https://studiomeal.com/archives/533"> CSS GRID</a> 2021. 12.13
