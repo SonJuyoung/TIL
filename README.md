@@ -16,7 +16,10 @@ Today I Learned
 
 6. <a href="https://dingue.tistory.com/14"> 롬복 @Getter/@Setter , @NoArgsConstructor, @RequiredArgsConstructor, @AllArgsConstructor 학습</a> 2021. 12.10
 
-7. <a href="https://pearlluck.tistory.com/46"> SQL JOIN 학습</a> 2021. 12.12
+7. SQL 학습<br>
+7-1. <a href="https://pearlluck.tistory.com/46"> SQL JOIN 학습</a> 2021. 12.12<br>
+7-2. <a href="https://extbrain.tistory.com/56"> SQL GROUP BY 학습</a> 2021. 12.14
+
 
 8. CSS 학습<br>
 8-1. <a href="https://studiomeal.com/archives/197"> CSS FLEX</a> 2021. 12.13<br>
