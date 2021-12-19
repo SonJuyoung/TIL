@@ -25,3 +25,6 @@ Today I Learned
 8. CSS 학습<br>
 8-1. <a href="https://studiomeal.com/archives/197"> CSS FLEX</a> 2021. 12.13<br>
 8-2. <a href="https://studiomeal.com/archives/533"> CSS GRID</a> 2021. 12.13
+
+9. HTML 학습<br>
+9-1. <a href="http://tcpschool.com/html-tag-attrs/input-accept"> input 태그의 accept 속성</a> 2021. 12.19<br>
