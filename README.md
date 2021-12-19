@@ -14,7 +14,8 @@ Today I Learned
 
 5. <a href="https://yceffort.kr/2020/10/6-different-ways-to-declare-javascript-function"> 자바스크립트 함수 선언 학습</a> 2021. 12.8
 
-6. <a href="https://dingue.tistory.com/14"> 롬복 @Getter/@Setter , @NoArgsConstructor, @RequiredArgsConstructor, @AllArgsConstructor 학습</a> 2021. 12.10
+6. <a href="https://dingue.tistory.com/14"> 롬복 @Getter/@Setter , @NoArgsConstructor, @RequiredArgsConstructor, @AllArgsConstructor 학습</a> 2021. 12.10<br>
+6.1 <a href ="https://athena7.tistory.com/entry/Lombok-ToString?category=794511"> @TOSTRING 학습</a> 2021. 12.19<br>
 
 7. SQL 학습<br>
 7-1. <a href="https://pearlluck.tistory.com/46"> SQL JOIN 학습</a> 2021. 12.12<br>
