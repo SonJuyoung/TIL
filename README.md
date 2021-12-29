@@ -33,4 +33,6 @@ Today I Learned
 
 10. <a href="https://codechacha.com/ko/java-gson/">GSON 으로 JSON 다루기</a> 2021. 12.22<br>
 
-11. <a href="http://melonicedlatte.com/2021/07/11/174700.html">스프링, 스프링부트 개념</a> 2021. 12. 29<br>
+11. 스프링 학습<br>
+11-1 <a href="http://melonicedlatte.com/2021/07/11/174700.html">스프링, 스프링부트 개념</a> 2021. 12. 29<br>
+11-2 <a href="https://dalpaeng00.tistory.com/83">스프링부트 controller, service, mapper</a> 2021. 12. 29<br>
