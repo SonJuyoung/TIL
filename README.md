@@ -38,6 +38,7 @@ Today I Learned
 11-2 <a href="https://dalpaeng00.tistory.com/83">스프링부트 controller, service, mapper</a> 2021. 12. 29<br>
 11-3 <a href="https://velog.io/@msriver/Spring-Model-%EA%B0%9D%EC%B2%B4">스프링 Model객체</a> 2021. 12.30<br>
 11-4 <a href="https://cheershennah.tistory.com/179">@RequestBody / @ResponseBody 어노테이션</a> 2022. 1.5<br>
+11-5 <a href="https://csslab.tistory.com/67">Tiles 사용하기</a> 2022. 1.12<br>
 
 12. GIT 학습<br>
 12-1. <a href="https://shxrecord.tistory.com/156">SOURCETREE로 GIT 사용하기</a> 2021. 12. 30<br>
