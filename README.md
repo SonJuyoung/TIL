@@ -16,7 +16,8 @@ Today I Learned
 
 5. 자바스크립트 학습<br>
 5.1 <a href="https://yceffort.kr/2020/10/6-different-ways-to-declare-javascript-function"> 함수 선언 학습</a> 2021. 12.8<br>
-5.2 <a href="https://ko.javascript.info/fetch"> fetch</a> 2021. 12.21
+5.2 <a href="https://ko.javascript.info/fetch"> fetch</a> 2021. 12.21<br>
+5.3 <a href="https://dltjdgur327.tistory.com/13"> url 파라미터 한글 인코딩</a> 2022. 05.12<br>
 
 6. <a href="https://dingue.tistory.com/14"> 롬복 @Getter/@Setter , @NoArgsConstructor, @RequiredArgsConstructor, @AllArgsConstructor 학습</a> 2021. 12.10<br>
 6.1 <a href ="https://athena7.tistory.com/entry/Lombok-ToString?category=794511"> @TOSTRING 학습</a> 2021. 12.19<br>
