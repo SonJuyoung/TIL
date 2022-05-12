@@ -19,8 +19,9 @@ Today I Learned
 5.2 <a href="https://ko.javascript.info/fetch"> fetch</a> 2021. 12.21<br>
 5.3 <a href="https://dltjdgur327.tistory.com/13"> url 파라미터 한글 인코딩</a> 2022. 05.12<br>
 
-6. <a href="https://dingue.tistory.com/14"> 롬복 @Getter/@Setter , @NoArgsConstructor, @RequiredArgsConstructor, @AllArgsConstructor 학습</a> 2021. 12.10<br>
-6.1 <a href ="https://athena7.tistory.com/entry/Lombok-ToString?category=794511"> @TOSTRING 학습</a> 2021. 12.19<br>
+6. 롬복<
+6.1 <a href="https://dingue.tistory.com/14"> @Getter/@Setter , @NoArgsConstructor, @RequiredArgsConstructor, @AllArgsConstructor 학습</a> 2021. 12.10<br>
+6.2 <a href ="https://athena7.tistory.com/entry/Lombok-ToString?category=794511"> @TOSTRING 학습</a> 2021. 12.19<br>
 
 7. SQL 학습<br>
 7-1. <a href="https://pearlluck.tistory.com/46"> SQL JOIN 학습</a> 2021. 12.12<br>
